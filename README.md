@@ -1,2 +1,2 @@
 # ProjetoWebConexao
-Tela de cadastrar, listar, alterar e excluir com banco de dados
+Tela de cadastrar, listar, editar e excluir com banco de dados
